@@ -4,8 +4,8 @@
 
 # Modificaton majeure sur branche "modif" mais cette fois ci avec accord du chef a avoir
 
-<<<<<<< HEAD
+
 # Tralala, des bétises de Simon
-=======
+
 # Modif sur branche Tom finalisée
->>>>>>> ModifTom
+
